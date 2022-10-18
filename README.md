@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nuttdam
-- 👀 I’m interested in Cryptocurrency trading
-- 🌱 I’m currently learning Django
+- 👀 I’m a medical student at Thammasat University.
+- 🌱 I’m currently learning about machine learning.
 - 📫 Reach me at nuttdamrong@gmail.com
 
 <!---
